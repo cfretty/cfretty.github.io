@@ -1,6 +1,6 @@
 a {
   color: #848d96;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .body {
@@ -198,7 +198,7 @@ a {
 
   .image {
     position: static;
-    height: 420px;
+    /* height: 420px; */
     max-height: 50vh;
     min-height: auto;
     background-position: 50% 0%;
