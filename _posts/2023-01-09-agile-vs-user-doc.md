@@ -1,7 +1,7 @@
 ---
 title: Agile vs user doc
 date: 2023-01-09 08:00:00 -0600
-categories: [Technical Writing]
+categories: [Work,Technical Writing]
 tags: [agile,agile manifesto,software development,user documentation,work]  # TAG names should always be lowercase
 #image:  https://chirpy.cotes.page/posts/write-a-new-post/#preview-image
 #  path: 
@@ -39,7 +39,6 @@ Questions and comments for teams having the "working software over comprehensive
 ## References
 [Agile Manifesto](https://agilemanifesto.org/){:target="_blank" rel="noopener"}
 
-[Nuclino "Agile Development Methodology and Documentation:
-To document or not to document?"](https://www.nuclino.com/articles/agile-documentation){:target="_blank" rel="noopener"}
+["Agile Development Methodology and Documentation: To document or not to document?"](https://www.nuclino.com/articles/agile-documentation){:target="_blank" rel="noopener"} - Nuclino
 
-[DITA Strategies "IA Design and Agile Development: Mission (Im)possible!" by Amber Swope](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"}
+["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A Swope, DITA Strategies
