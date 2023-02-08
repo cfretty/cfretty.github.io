@@ -10,7 +10,7 @@ tags: [doctools,intake,program management,projects,technical program manager]  #
 <!-- excerpt -->
 *A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming work requests.*
 
-A little less [Lucy and Ethel at the chocolate factory](https://youtu.be/NkQ58I53mjk?t=127) 
+A little less [Lucy and Ethel at the chocolate factory](https://youtu.be/NkQ58I53mjk?t=127){:target="_blank" rel="noopener"}
 <!-- you tube isn't working for this video, it says video unavailable {% include embed/youtube.html id='NkQ58I53mjk?start=127' %} -->
   
 The Information Development DOCTOOLS team has formalized the work intake process. This will allow us to increase our efficiency, effectiveness, transparency, and consistency.
