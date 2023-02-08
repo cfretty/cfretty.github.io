@@ -15,10 +15,10 @@ _Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbrandin
   
 Agile development methodology is not anti-documentation. When discussing Agile and documentation, it is common to get hung up on the Agile Manifesto's software over doc value:
 
->**Individuals and interactions** over processes and tools <br>
-:point_right: **Working software** over comprehensive documentation :point_left: <br>
->**Customer collaboration** over contract negotiation <br>
->**Responding to change** over following a plan
+***Individuals and interactions** over processes and tools* <br>
+:point_right: ***Working software** over comprehensive documentation* :point_left: <br>
+***Customer collaboration** over contract negotiation* <br>
+***Responding to change** over following a plan*
 
 A couple of points:
 - "Documentation" is documentation in the broadest sense, including traditional internal development deliverables such as Systems Requirements, Systems Design, Vision and Scope, use cases, schemas, work-flow diagrams, Rational Unified Process artifacts, and so on. Do not confuse with user documentation.
