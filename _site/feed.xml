@@ -1,0 +1,105 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Northern Miscellany</title>
+  <subtitle>Charity Fretty's website and blog.</subtitle>
+  <updated>2023-02-08T09:50:20-06:00</updated>
+  <author>
+    <name>Charity Fretty</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Charity Fretty </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Thank you, Best Buy associate</title>
+    <link href="http://localhost:4000/posts/thank-you-best-buy/" rel="alternate" type="text/html" title="Thank you, Best Buy associate" />
+    <published>2022-12-29T08:00:00-06:00</published>
+  
+    <updated>2022-12-29T08:00:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/thank-you-best-buy/</id>
+    <content src="http://localhost:4000/posts/thank-you-best-buy/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Technology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+The computer is great, but I did not know the mouse would make such a difference.
+
+
+Image by Tex Avery on Wikimedia Commons
+
+This October, I needed a new computer. I knew I would buy a laptop. After doing a bit of research, I settled on a Mac. I made this decision based on price and availability at my local Best Buy store. I am a tactile shopper, I need to see and touch a thing before I buy.
+
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Testing one two, one two. Sibilance, sibilance.</title>
+    <link href="http://localhost:4000/posts/testing-one-two/" rel="alternate" type="text/html" title="Testing one two, one two. Sibilance, sibilance." />
+    <published>2022-12-18T08:00:00-06:00</published>
+  
+    <updated>2022-12-18T08:00:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/testing-one-two/</id>
+    <content src="http://localhost:4000/posts/testing-one-two/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Other" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Initial hello world post.
+
+Photo by Matt Botsford on Unsplash
+
+Coming soon. A post on a particular topic, but for now, keep it short, kid. Otherwise, you’ll go down yet another rabbit hole.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
