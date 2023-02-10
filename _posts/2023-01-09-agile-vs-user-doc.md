@@ -26,7 +26,7 @@ A couple of points:
 
 Teams will interpret this value and execute any number of ways, but here are some ideas: 
 - Deliver working software first, comprehensive user documentation later. Deliver in later cycles, just in time, and iteratively. Assume the correct time for the user doc is later than "in active development." Add docs as a feature request and prioritize the backlog.
-- Ensure at a minimum there are user stories in place. This is can be the base for internal and customer-facing doc.
+- Ensure at a minimum there are user stories in place. This can be the base for internal and customer-facing doc.
 
 Questions and comments for teams having the "working software over comprehensive documentation" discussion: 
 - Doc team, are we embracing agile values and principles? No one adopting agile will listen if you reject these values and principles outright. Are we figuring out ways to work faster, smaller, and iteratively? Can we learn how to work with slimmed down, "just barely good enough" and "just in time" internal doc/info/artifacts? That may mean evaluating and letting go of processes, deliverables, schedules, and so on that no longer serve us. 

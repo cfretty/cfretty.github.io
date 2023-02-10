@@ -23,9 +23,9 @@ InfoDev Tools team uses Jira issue and project tracking software for all work in
 
 If you are proposing a work task, enhancement, or improvement for an existing or ongoing tool or project, create a DOCTOOLS Jira issue as always. Use the appropriate **Issue Type** and **Component/s**. 
 
-If your proposal is for a **new project**. use the project proposal template.
+If your proposal is for a **new project**, use the project proposal template.
 
-NOTE: The template will request only the information we need to make a decision. Information collected but not used is a drain on resources. If something is unclear or we have questions, we will follow up with you. 
+NOTE: The template will request only the information we need to make a decision. Information collected but not used is a drain on resources. If something is unclear or if we have questions, we will follow up with you. 
 
 ## Definition of project 
 
@@ -71,7 +71,7 @@ Current State/background: Optional
 
 Tools: Optional
 
-Dependencies or pre-requisites: Optional 
+Dependencies or prerequisites: Optional 
 
 Goals: Required.
 * List goal or goals. What is the overarching goal? What is the end result? What is the definition of "done"? 
@@ -82,15 +82,15 @@ Goals: Required.
 Date needed: Required. What is the desired completion date for the project? 
 
 Stakeholders 
-* Point person: Required. who is overseeing progress and answering questions as the team gets to work? This can be you as reporter/requestor, or it may be a Sponsor, business owner, or SME.
+* Point person: Required. Who is overseeing progress and answering questions as the team gets to work? This can be you as reporter/requestor, or it may be a Sponsor, business owner, or SME.
 * Sponsor: Required. Who in leadership supports and sponsors this project?
 * Audience: Required. Who is affected by or benefits from this project? Who is the intended audience(s)?
-* Project team: Optional. if you know or have requests for who in Global InfoDev and Translation should do this work, add them here.
+* Project team: Optional. If you know or have requests for who in Global InfoDev and Translation should do this work, add them here.
 
 # Roles and responsibilities 
 **Initiator** - creates the project proposal by creating a Jira issue using the proposal template to the best of their ability. Anyone can use the template to write a proposal, including staff, project managers, sponsors. Staff, including architects, may start a proposal for someone else and reassign to that individual for completion. 
 
-**Governance committee** - reviews the proposal and make one of three decisions: approve, defer, cancel.  The governance committee is the team responsible for InfoDev strategic decisions. This team handles project selection, prioritization, and resource allocation. They will review the proposal and evaluate how the proposal aligns with department or corporate strategy. If the decision is approve, they will begin discussions to assess priority and effort of the proposal. 
+**Governance committee** - reviews the proposal and make one of three decisions: approve, defer, cancel.  The governance committee is the team responsible for InfoDev strategic decisions. This team handles project selection, prioritization, and resource allocation. They will review the proposal and evaluate how the proposal aligns with department or corporate strategy. If the decision is "approve", they will begin discussions to assess priority and effort of the proposal. 
 
 **Program Manager** - reviews proposals to determine if they fit the guidelines for the intake process and facilitates the review process with the governance team. If a proposal does not meet criteria or it can be addressed via existing project or process, the program manager will reassign, close, or return the Jira ticket to the initiator. The program manager is responsible for the backlog of deferred proposals. 
 
@@ -101,7 +101,7 @@ Stakeholders
 _Adapted for Infor Global InfoDev from ["PPM 101: How To Create A Successful Work Intake Process"](https://acuityppm.com/ppm-101-successful-work-intake-process/) - T Washington, Acuity PPM_
 
 # Timetables
-Project proposals can be submitted at any time. Make sure your request is addressed in a timely manor, be sure to assign the proposal to Charity Fretty. 
+Project proposals can be submitted at any time. Make sure your request is addressed in a timely manner, be sure to assign the proposal to Charity Fretty. 
 
 DOCTOOLS Jira project is monitored daily by InfoDev architects and staff.
 Architects and the program manager review proposals and work requests at a check-in meeting every other Tuesday. 
@@ -111,7 +111,7 @@ The governance committee meets every other Thursday (opposite weeks of architect
 Architects and program manager meet once a month on for a long format project review.
 
 # Metrics 
->Consider capturing a few key metrics for the work intake process: <br>
+>Consider capturing a few key metrics for the work intake process:<br>
 >How many project requests originate from a given organization (e.g. Finance, Operations, Marketing, etc.). When the organization understands where its requests are coming from, it can take action to better meet the needs of those internal organizations.<br>
 >How many proposals are incomplete?<br>
 >How many proposals come in per week? Per month? Per quarter? This information can inform how often decision makers need to meet and for how long; it can also support annual planning processes. 
