@@ -8,7 +8,7 @@ tags: [agile,agile manifesto,software development,user documentation,work]  # TA
 #  alt:  
 ---
 <!-- excerpt -->
-*When software development teams adopt agile methodologies, new conflicts can arise between the dev and doc teams. This is a post I wrote at my former job when a development team told their technical writers that they no longer had time for documentation.*
+*When software development teams adopt agile methodologies, new conflicts can arise between the development and documentation teams. This is a post I wrote at my former job when a dev team told their technical writers that they no longer had time for documentation.*
 
 ![blank open book](/assets/img/doc.jpg){: w="400" h=" "}
 _Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/things/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
@@ -31,9 +31,9 @@ Teams will interpret this value and execute any number of ways, but here are som
 Questions and comments for teams having the "working software over comprehensive documentation" discussion: 
 - Doc team, are we embracing agile values and principles? No one adopting agile will listen if you reject these values and principles outright. Are we figuring out ways to work faster, smaller, and iteratively? Can we learn how to work with slimmed down, "just barely good enough" and "just in time" internal doc/info/artifacts? That may mean evaluating and letting go of processes, deliverables, schedules, and so on that no longer serve us. 
 - Dev team, how does providing the resources necessary to create quality user documentation, for example, internal artifacts or developer/BA/QA time, impede the "working software" side?
-- Docs team, what is the minimal viable deliverable we need from dev to do our work? What do we need? When do we need it? Who creates it (BA, Product Management, or ?)? 
-- Dev and Docs team, can we agree on what makes up "just barely good enough" and "just in time" artifacts for stakeholders?
-- Dev team, remember principle 1: "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software." If the customer expects user documentation or does not KNOW about the value (functionality) the software delivers, are we truly satisfying the customer and thus meeting our highest priority? 
+- Doc team, what is the minimal viable deliverable we need from dev to do our work? What do we need? When do we need it? Who creates it (BA, Product Management, or ?)? 
+- Dev and Doc teams, can we agree on what makes up "just barely good enough" and "just in time" artifacts for stakeholders?
+- Dev team, remember principle 1: "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software." If the customer expects user documentation or does not **know** about the value (functionality) the software delivers, are we truly satisfying the customer and thus meeting our highest priority? 
 - All team members, consider principle 12: "At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."
 
 ## References

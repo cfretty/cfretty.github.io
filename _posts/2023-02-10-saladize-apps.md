@@ -27,9 +27,9 @@ Skip the salami or replace the salami with bacon. Switch out honey for Balsamic 
 #### Olive dip or [olive tapenade](https://www.williams-sonoma.com/recipe/olive-tapenade-with-crudites.html){:target="_blank" rel="noopener"} with crudités
 One of my go-to appetizers is a creamy mixed olive dip with parsley and lemon. The original recipe from Chowhound is no longer available (RIP Chowhound.com):cry:. So if you want this appetizer, you'll have to invite me to your party. 
 
-But same idea would work with your favorite olive tapenade, too. Instead of processing those olives, roughly chop and throw in with the lettuce and the crudité vegetables, which are now cubes instead of sticks. Mix up a creamy or viniagrette dressing, with or without anchovy paste or anchovies (Worcestershire is a fine sub). If you already have tapenade made, it's the base of a lovely dressing.
+But the same idea would work with your favorite olive tapenade, too. Instead of processing those olives, roughly chop and throw in with the lettuce and the crudité vegetables, which are now cubes instead of sticks. Mix up a creamy or vinaigrette dressing, with or without anchovy paste or anchovies (Worcestershire is a fine sub). If you already have tapenade made, it's the base of a lovely dressing.
 
-I mean, not a too much of a stretch to turn this one into a vegatarian Niçoise-style salad. Or not! Throw on that tuna! Add an egg!
+I mean, not a too much of a stretch to turn this one into a vegetarian Niçoise-style salad. Or not! Throw on that tuna! Add an egg!
 
 #### Bruschetta
 I am not providing a recipe link here, but I am referring to the familiar tomato and basil on toast rounds.
@@ -37,14 +37,14 @@ I am not providing a recipe link here, but I am referring to the familiar tomato
 Caprese or panzanella anyone? More greens won't hurt.
 
 #### [Cowboy caviar](https://en.wikipedia.org/wiki/Texas_caviar){:target="_blank" rel="noopener"}
-So I add jicama for crunch, forgo the chips and eat directly from the bowl anyway, but yeah, throw it on some finely shredded lettuce or napa cabbage. Heck yeah, crumble some corn chips on top for crutons. Why not?
+So I add jicama for crunch, forgo the chips and eat directly from the bowl anyway, but yeah, throw it on some finely shredded lettuce or Napa cabbage. Heck yeah, crumble some corn chips on top for croutons. Why not?
 
 ... and I could go on and on. I'll just leave a few more here: **Buffalo wings**, **Spring rolls/Summer rolls**, **Shrimp cocktail**
 
 
 ### No!
 There are appetizers you cannot “saladize”. And why would you try?
-Oysters Rockefeller, mozzarella sticks, Hormel chili dip, pigs in blankets, sweet bacon wrapped smokies, hot spinach and artichoke dip, Top the Tater (or your favorite sour cream based dip here) and chips (life is short, just eat the chips and dip as a meal)
+Oysters Rockefeller, mozzarella sticks, Hormel chili dip, pigs in blankets, sweet bacon wrapped smokies, hot spinach and artichoke dip, Top the Tater or your favorite sour cream based dip and chips.
 
 
 ![ew](https://i.giphy.com/XGhAsbZgxMv65JOJvc.gif)
