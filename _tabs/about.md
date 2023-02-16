@@ -2,11 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
-image:  
-  path: /assets/img/northstar.jpg
-  alt:  big dipper and north star detail from photo by John Fowler on Unsplash
+# image:  
+#   path: /assets/img/northstar.jpg
+#   alt:  big dipper and north star detail from photo by John Fowler on Unsplash
 ---
-![big dipper and north star detail from photo by John Fowler on Unsplash](/assets/img/northstar.jpg)
+![big dipper and north star](/assets/img/northstar.jpg)
 
 ## *Hi. Charity Fretty. Damn glad to meet you.*
 ## About me
@@ -33,4 +33,6 @@ As noted, my focus has shifted from full-time writing. I want to create a person
 
 Since I’m here, I will add posts on personal topics, hence northern miscellany.
 
-[North star icons created by Freepik - Falticon](https://www.flaticon.com/free-icons/north-star){:target="_blank" rel="noopener"}
+_[North star icons created by Freepik - Falticon](https://www.flaticon.com/free-icons/north-star){:target="_blank" rel="noopener"}_
+
+_Big dipper and north star, detail from photo by [John Fowler](https://unsplash.com/@wildhoney) on [Unsplash](https://unsplash.com/photos/9qgKQewttVs){:target="_blank" rel="noopener"}_

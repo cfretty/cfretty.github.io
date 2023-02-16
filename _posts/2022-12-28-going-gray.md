@@ -3,21 +3,18 @@ title: Going gray
 date: 2022-12-28 08:00:00 -0600
 categories: [Journal]
 tags: [crone,dye-strip,gray,hair]  # TAG names should always be lowercase
-#image:  https://chirpy.cotes.page/posts/write-a-new-post/#preview-image
-#  path: 
-#  alt:  
+image:   
+  path: /assets/img/nymph.png
+  alt:  statue of a nymph drying her hair
 ---
 <!-- excerpt -->
 *Now that it’s been a year, I want to share my experience with dye-strip technique to transition to gray hair.*
-
-![statue nymph drying her hair](/assets/img/nymph.png)
-_Photo by [Louis-Claude Vassé](https://commons.wikimedia.org/w/index.php?title=Creator:Louis-Claude_Vassé&action=edit&redlink=1) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymph_drying_her_hair_MET_198991.jpg)_
 
 **Update** *February 2023: I'm gonna try and let it grow and do something with the ends in a few months. Dye? Chop? Who knows. Stay tuned.*
 
 I can do nothing about the fact I am aging. So I have decided to lean in to my transition to crone (or swamp witch). (My new identity varies, based on my current mood.)
 
-I am a natural dark brunette who has had gray hairs since my twenties. I resemble my grandmother who went totally and beautifully white in her thirties. 
+A natural dark brunette who has had gray hairs since my twenties, I resemble my grandmother who went totally and beautifully white in her thirties. 
 
 I have attempted and failed to go gray a few times over the years, for example:
 - Over a decade ago I stopped dying, aka the "cold turkey" method. This lasted a few months until my sister pointed at the crown of my head and said: "What's going on there?". I noped right back into my colorist's chair. Not ready.
@@ -52,3 +49,5 @@ Diana Moffitt’s [video with Katie Goes Platinum](https://youtu.be/WXCc8hDe8-M
 
 ![Month 1 January 2022](/assets/img/jan2022.jpg){: w="200" h=" " .normal} ![Month 7 July 2022](/assets/img/july2022.jpg){: w="200" h=" " .normal} ![Month 9 September 2022](/assets/img/sept2022.jpg){: w="200" h=" " .normal} 
 _new (dyed) part on top, old part on bottom)_
+
+_Photo by [Louis-Claude Vassé](https://commons.wikimedia.org/w/index.php?title=Creator:Louis-Claude_Vassé&action=edit&redlink=1) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymph_drying_her_hair_MET_198991.jpg)_
