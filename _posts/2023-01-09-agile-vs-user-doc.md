@@ -3,15 +3,12 @@ title: Agile vs user doc
 date: 2023-01-09 08:00:00 -0600
 categories: [Work,Technical Writing]
 tags: [agile,agile manifesto,software development,user documentation,work]  # TAG names should always be lowercase
-#image:  https://chirpy.cotes.page/posts/write-a-new-post/#preview-image
-#  path: 
-#  alt:  
+image:  
+  path: /assets/img/doc.jpg
+  alt:  blank open book
 ---
 <!-- excerpt -->
 *When software development teams adopt agile methodologies, new conflicts can arise between the development and documentation teams. This is a post I wrote at my former job when a dev team told their technical writers that they no longer had time for documentation.*
-
-![blank open book](/assets/img/doc.jpg){: w="400" h=" "}
-_Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/things/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
   
 Agile development methodology is not anti-documentation. When discussing Agile and documentation, it is common to get hung up on the Agile Manifesto's software over doc value:
 
@@ -41,4 +38,6 @@ Questions and comments for teams having the "working software over comprehensive
 
 ["Agile Development Methodology and Documentation: To document or not to document?"](https://www.nuclino.com/articles/agile-documentation){:target="_blank" rel="noopener"} - Nuclino
 
-["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A Swope, DITA Strategies
+["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A. Swope, DITA Strategies
+
+_Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/things/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

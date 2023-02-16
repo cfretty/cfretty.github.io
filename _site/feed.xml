@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Northern Miscellany</title>
   <subtitle>Charity Fretty's website and blog.</subtitle>
-  <updated>2023-02-10T14:21:17-06:00</updated>
+  <updated>2023-02-16T12:21:25-06:00</updated>
   <author>
     <name>Charity Fretty</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/saladize-apps/" rel="alternate" type="text/html" title="Recipe idea: Turn your favorite appetizer into a salad" />
     <published>2023-02-10T08:00:00-06:00</published>
   
-    <updated>2023-02-10T12:37:52-06:00</updated>
+    <updated>2023-02-10T14:21:49-06:00</updated>
   
     <id>http://localhost:4000/posts/saladize-apps/</id>
     <content src="http://localhost:4000/posts/saladize-apps/" />
@@ -99,7 +99,7 @@ A process I developed at my last job. As technical program manager for the tools
     <link href="http://localhost:4000/posts/agile-vs-user-doc/" rel="alternate" type="text/html" title="Agile vs user doc" />
     <published>2023-01-09T08:00:00-06:00</published>
   
-    <updated>2023-02-10T11:00:58-06:00</updated>
+    <updated>2023-02-10T14:21:49-06:00</updated>
   
     <id>http://localhost:4000/posts/agile-vs-user-doc/</id>
     <content src="http://localhost:4000/posts/agile-vs-user-doc/" />
@@ -126,10 +126,7 @@ A process I developed at my last job. As technical program manager for the tools
       
 When software development teams adopt agile methodologies, new conflicts can arise between the development and documentation teams. This is a post I wrote at my former job when a dev team told their technical writers that they no longer had time for documentation.
 
-
-Photo by Brando Makes Branding on Unsplash
-
-Agile development methodology is not anti-documentation. When discussing Agile and do...
+Agile development methodology is not anti-documentation. When discussing Agile and documentation, it is common to get hung up on t...
     </summary>
   
 
@@ -166,12 +163,9 @@ Agile development methodology is not anti-documentation. When discussing Agile a
       
 The computer is great, but I did not know the mouse would make such a difference.
 
-
-Image by Tex Avery on Wikimedia Commons
-
 This October, I needed a new computer. I knew I would buy a laptop. After doing a bit of research, I settled on a Mac. I made this decision based on price and availability at my local Best Buy store. I am a tactile shopper, I need to see and touch a thing before I buy.
 
-...
+Though I grew up using Macintosh computers...
     </summary>
   
 
@@ -208,12 +202,9 @@ This October, I needed a new computer. I knew I would buy a laptop. After doing 
       
 Now that it’s been a year, I want to share my experience with dye-strip technique to transition to gray hair.
 
-
-Photo by Louis-Claude Vassé on Wikimedia Commons
-
 Update February 2023: I’m gonna try and let it grow and do something with the ends in a few months. Dye? Chop? Who knows. Stay tuned.
 
-I can do nothing about the fact I am aging. So I have decided to lean in to my transition to crone ...
+I can do nothing about the fact I am aging. So I have decided to lean in to my transition to crone (or swamp witch). (My new identity varies, based on...
     </summary>
   
 
