@@ -5,7 +5,7 @@ categories: [Food and Drink]
 tags: [appetizers,lunch,recipe,salad]  # TAG names should always be lowercase#
 image:
   path: /assets/img/salad.jpg
-  alt:  drawing of salad
+  alt:  drawing of a salad
 ---
 <!-- excerpt -->
 *Snacks and small plates are my favorite way to eat. My most beloved dishes are appetizers. When I have leftover ingredients or a craving, I “saladize” those apps!*
@@ -55,4 +55,4 @@ _via [GIPHY](https://giphy.com/gifs/schittscreek-schitts-creek-607-XGhAsbZgxMv65
 
 ["Why Is a Salad Called a Salad When There's No Lettuce?"](https://www.allrecipes.com/article/what-is-a-salad/){:target="_blank" rel="noopener"} by Jessica Furniss, allrecipes.com
 
-_Image detail from Affiche Delftsche Slaolie on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Affiche_Delftsche_Slaolie_Delftsche_Slaolie_Delftsche_Slaolie_NOF._Nederlandsche_Oliefabriek_Delft_(titel_op_object),_RP-P-1912-2395.jpg)_
+_Image detail from Affiche Delftsche Slaolie on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Affiche_Delftsche_Slaolie_Delftsche_Slaolie_Delftsche_Slaolie_NOF._Nederlandsche_Oliefabriek_Delft_(titel_op_object),_RP-P-1912-2395.jpg){:target="_blank" rel="noopener"}_
