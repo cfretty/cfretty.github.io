@@ -19,4 +19,4 @@ Despite the past, my mind was set on a MacBook Pro. The look and feel of it and 
 ## References
 [Logitech MX Anywhere 3 for Mac](https://www.logitech.com/en-us/products/mice/mx-anywhere-3-mac.910-005899.html){:target="_blank" rel="noopener"}
 
-_Image by Tex Avery on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tex_Avery_-_Looney_Tunes_-_Haunted_Mouse,_The_(1941)_-_06m_21s_007ms.jpg)_
+_Image by Tex Avery on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tex_Avery_-_Looney_Tunes_-_Haunted_Mouse,_The_(1941)_-_06m_21s_007ms.jpg){:target="_blank" rel="noopener"}_

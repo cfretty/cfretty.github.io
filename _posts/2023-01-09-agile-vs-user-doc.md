@@ -40,4 +40,4 @@ Questions and comments for teams having the "working software over comprehensive
 
 ["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A. Swope, DITA Strategies
 
-_Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/things/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Photo by [Brando Makes Branding](https://unsplash.com/pt-br/@brandomakesbranding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/images/things/book?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank" rel="noopener"}_

@@ -3,9 +3,9 @@ title: Documentation tools work intake process
 date: 2023-01-24 08:00:00 -0600
 categories: [Work, Projects]
 tags: [doctools,intake,program management,projects,technical program manager]  # TAG names should always be lowercase
-#image:  https://chirpy.cotes.page/posts/write-a-new-post/#preview-image
-#  path: 
-#  alt:  
+image:
+  path: /assets/img/doorwelcome.jpg
+  alt:  door with welcome sign
 ---
 <!-- excerpt -->
 *A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming work requests.*
@@ -97,7 +97,7 @@ Stakeholders
 **Team members(s)** - as needed, staff will be asked to review and comment on the proposal before it goes to the governance team. Including, but not limited to, architects, IT, translation, information developers.
 
 # Process flow
-![project proposal process flow chart](/assets/img/flowchart_projectproposal.png)
+![project proposal process flow chart](/assets/img/flowchart_projectproposal.png){: .shadow }
 _Adapted for Infor Global InfoDev from ["PPM 101: How To Create A Successful Work Intake Process"](https://acuityppm.com/ppm-101-successful-work-intake-process/) - T Washington, Acuity PPM_
 
 # Timetables
@@ -123,4 +123,7 @@ Architects and program manager meet once a month on for a long format project re
 
 ["Agile Development Methodology and Documentation: To document or not to document?"](https://www.nuclino.com/articles/agile-documentation){:target="_blank" rel="noopener"} - Nuclino
 
-["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A Swope, DITA Strategies
+["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A. Swope, DITA Strategies
+
+_Photo by [Hombre](https://unsplash.com/de/@hombre){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/photos/qiSxer3QF2I){:target="_blank" rel="noopener"}_
+  

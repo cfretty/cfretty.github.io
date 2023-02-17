@@ -50,4 +50,4 @@ Diana Moffitt’s [video with Katie Goes Platinum](https://youtu.be/WXCc8hDe8-M
 ![Month 1 January 2022](/assets/img/jan2022.jpg){: w="200" h=" " .normal} ![Month 7 July 2022](/assets/img/july2022.jpg){: w="200" h=" " .normal} ![Month 9 September 2022](/assets/img/sept2022.jpg){: w="200" h=" " .normal} 
 _new (dyed) part on top, old part on bottom)_
 
-_Photo by [Louis-Claude Vassé](https://commons.wikimedia.org/w/index.php?title=Creator:Louis-Claude_Vassé&action=edit&redlink=1) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymph_drying_her_hair_MET_198991.jpg)_
+_Photo by [Louis-Claude Vassé](https://commons.wikimedia.org/w/index.php?title=Creator:Louis-Claude_Vassé&action=edit&redlink=1){:target="_blank" rel="noopener"} on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymph_drying_her_hair_MET_198991.jpg){:target="_blank" rel="noopener"}_
