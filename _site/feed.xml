@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Northern Miscellany</title>
   <subtitle>Charity Fretty's website and blog.</subtitle>
-  <updated>2023-02-16T12:21:25-06:00</updated>
+  <updated>2023-03-10T16:49:05-06:00</updated>
   <author>
     <name>Charity Fretty</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,52 @@
 
   
   <entry>
+    <title>In search of a free personal website</title>
+    <link href="http://localhost:4000/posts/iso-free-website/" rel="alternate" type="text/html" title="In search of a free personal website" />
+    <published>2023-02-17T08:00:00-06:00</published>
+  
+    <updated>2023-02-17T08:00:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/iso-free-website/</id>
+    <content src="http://localhost:4000/posts/iso-free-website/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Technology" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+My experience creating a free personal website using two popular options: WordPress.com and GitHub Pages.
+
+This winter I built a personal website. Well, two (and a half) websites. There are many products and options out there, it can be overwhelming. Defining my requirements helped me focus my research:
+
+  Free. Spend no money, not even on a domain name.
+  Learn about a new (to me) framework.
+...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Recipe idea: Turn your favorite appetizer into a salad</title>
     <link href="http://localhost:4000/posts/saladize-apps/" rel="alternate" type="text/html" title="Recipe idea: Turn your favorite appetizer into a salad" />
     <published>2023-02-10T08:00:00-06:00</published>
   
-    <updated>2023-02-10T14:21:49-06:00</updated>
+    <updated>2023-02-17T14:02:41-06:00</updated>
   
     <id>http://localhost:4000/posts/saladize-apps/</id>
     <content src="http://localhost:4000/posts/saladize-apps/" />
@@ -62,7 +103,7 @@ I enjoyed this video about go-to appetizers from Bon Appétit Test Kitchen Talks
     <link href="http://localhost:4000/posts/work-intake/" rel="alternate" type="text/html" title="Documentation tools work intake process" />
     <published>2023-01-24T08:00:00-06:00</published>
   
-    <updated>2023-02-10T11:00:58-06:00</updated>
+    <updated>2023-02-17T14:02:41-06:00</updated>
   
     <id>http://localhost:4000/posts/work-intake/</id>
     <content src="http://localhost:4000/posts/work-intake/" />
@@ -99,7 +140,7 @@ A process I developed at my last job. As technical program manager for the tools
     <link href="http://localhost:4000/posts/agile-vs-user-doc/" rel="alternate" type="text/html" title="Agile vs user doc" />
     <published>2023-01-09T08:00:00-06:00</published>
   
-    <updated>2023-02-10T14:21:49-06:00</updated>
+    <updated>2023-02-17T14:02:41-06:00</updated>
   
     <id>http://localhost:4000/posts/agile-vs-user-doc/</id>
     <content src="http://localhost:4000/posts/agile-vs-user-doc/" />
@@ -138,7 +179,7 @@ Agile development methodology is not anti-documentation. When discussing Agile a
     <link href="http://localhost:4000/posts/thank-you-best-buy/" rel="alternate" type="text/html" title="Thank you, Best Buy associate" />
     <published>2022-12-29T08:00:00-06:00</published>
   
-    <updated>2023-02-10T11:00:58-06:00</updated>
+    <updated>2023-02-17T14:02:41-06:00</updated>
   
     <id>http://localhost:4000/posts/thank-you-best-buy/</id>
     <content src="http://localhost:4000/posts/thank-you-best-buy/" />
@@ -166,45 +207,6 @@ The computer is great, but I did not know the mouse would make such a difference
 This October, I needed a new computer. I knew I would buy a laptop. After doing a bit of research, I settled on a Mac. I made this decision based on price and availability at my local Best Buy store. I am a tactile shopper, I need to see and touch a thing before I buy.
 
 Though I grew up using Macintosh computers...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Going gray</title>
-    <link href="http://localhost:4000/posts/going-gray/" rel="alternate" type="text/html" title="Going gray" />
-    <published>2022-12-28T08:00:00-06:00</published>
-  
-    <updated>2023-02-10T11:00:58-06:00</updated>
-  
-    <id>http://localhost:4000/posts/going-gray/</id>
-    <content src="http://localhost:4000/posts/going-gray/" />
-    <author>
-      <name>Charity Fretty</name>
-    </author>
-
-  
-    
-    <category term="Journal" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Now that it’s been a year, I want to share my experience with dye-strip technique to transition to gray hair.
-
-Update February 2023: I’m gonna try and let it grow and do something with the ends in a few months. Dye? Chop? Who knows. Stay tuned.
-
-I can do nothing about the fact I am aging. So I have decided to lean in to my transition to crone (or swamp witch). (My new identity varies, based on...
     </summary>
   
 
