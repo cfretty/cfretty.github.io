@@ -119,11 +119,15 @@ Architects and program manager meet once a month on for a long format project re
 *["PPM 101: How To Create A Successful Work Intake Process"](https://acuityppm.com/ppm-101-successful-work-intake-process/) - T Washington, Acuity PPM*
 
 # References
-[Agile Manifesto](https://agilemanifesto.org/){:target="_blank" rel="noopener"}
+[“PPM 101: How To Create A Successful Work Intake Process”](https://acuityppm.com/ppm-101-successful-work-intake-process/){:target="_blank" rel="noopener"}– T Washington, Acuity PPM
 
-["Agile Development Methodology and Documentation: To document or not to document?"](https://www.nuclino.com/articles/agile-documentation){:target="_blank" rel="noopener"} - Nuclino
+[“Intake Process”](https://www.workfront.com/project-management/life-cycle/initiation/intake-process#:~:text=A%20project%20intake%20process%20determines,that%20goes%20along%20with%20it){:target="_blank" rel="noopener"}– Adobe Workfront
 
-["IA Design and Agile Development: Mission (Im)possible!"](https://www.ditastrategies.com/media/ia-design-and-agile-development-mission-impossible){:target="_blank" rel="noopener"} - A. Swope, DITA Strategies
+[“Managing your Project Intake Process is a Cornerstone of Your Success”](https://www.linkedin.com/pulse/managing-your-project-intake-process-cornerstone-don-clarke-pmp){:target="_blank" rel="noopener"}- D Clarke, LinkedIn
+
+[“4 Signs Your Project Intake Process Is Outdated”](https://www.wrike.com/blog/project-intake-process/){:target="_blank" rel="noopener"}– L Quiambao, Wrike  
+
+[“Tips to Create the Perfect Intake Process Template for Project Work”](https://www.wrike.com/blog/intake-process-template-project-work/){:target="_blank" rel="noopener"}– K Boogaard, Wrike
 
 _Photo by [Hombre](https://unsplash.com/de/@hombre){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/photos/qiSxer3QF2I){:target="_blank" rel="noopener"}_
   
