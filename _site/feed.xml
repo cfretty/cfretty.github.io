@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Northern Miscellany</title>
   <subtitle>Charity Fretty's website and blog.</subtitle>
-  <updated>2023-03-10T16:49:05-06:00</updated>
+  <updated>2023-04-16T18:05:13-05:00</updated>
   <author>
     <name>Charity Fretty</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,52 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Sugaring retrospective</title>
+    <link href="http://localhost:4000/posts/sugaring-retro/" rel="alternate" type="text/html" title="Sugaring retrospective" />
+    <published>2023-04-16T09:00:00-05:00</published>
+  
+    <updated>2023-04-16T09:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/sugaring-retro/</id>
+    <content src="http://localhost:4000/posts/sugaring-retro/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Food and Drink" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Making maple syrup from our silver maples: Tap the trees &amp;gt; collect the sap &amp;gt; boil the sap &amp;gt; finish the syrup.
+
+2023 sugaring by the numbers
+
+  10 days from tap day to boil day
+  10 hours to boil and finish
+    
+      Warming inside started at 10 a.m. and it took 40 minutes to get pots up to temp to move outside.
+      Syrup processing was done at 8 p.m.
+    
+  
+  10 cups of syrup, in ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -103,7 +149,7 @@ I enjoyed this video about go-to appetizers from Bon Appétit Test Kitchen Talks
     <link href="http://localhost:4000/posts/work-intake/" rel="alternate" type="text/html" title="Documentation tools work intake process" />
     <published>2023-01-24T08:00:00-06:00</published>
   
-    <updated>2023-02-17T14:02:41-06:00</updated>
+    <updated>2023-03-24T13:38:17-05:00</updated>
   
     <id>http://localhost:4000/posts/work-intake/</id>
     <content src="http://localhost:4000/posts/work-intake/" />
@@ -168,45 +214,6 @@ A process I developed at my last job. As technical program manager for the tools
 When software development teams adopt agile methodologies, new conflicts can arise between the development and documentation teams. This is a post I wrote at my former job when a dev team told their technical writers that they no longer had time for documentation.
 
 Agile development methodology is not anti-documentation. When discussing Agile and documentation, it is common to get hung up on t...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Thank you, Best Buy associate</title>
-    <link href="http://localhost:4000/posts/thank-you-best-buy/" rel="alternate" type="text/html" title="Thank you, Best Buy associate" />
-    <published>2022-12-29T08:00:00-06:00</published>
-  
-    <updated>2023-02-17T14:02:41-06:00</updated>
-  
-    <id>http://localhost:4000/posts/thank-you-best-buy/</id>
-    <content src="http://localhost:4000/posts/thank-you-best-buy/" />
-    <author>
-      <name>Charity Fretty</name>
-    </author>
-
-  
-    
-    <category term="Technology" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-The computer is great, but I did not know the mouse would make such a difference.
-
-This October, I needed a new computer. I knew I would buy a laptop. After doing a bit of research, I settled on a Mac. I made this decision based on price and availability at my local Best Buy store. I am a tactile shopper, I need to see and touch a thing before I buy.
-
-Though I grew up using Macintosh computers...
     </summary>
   
 
