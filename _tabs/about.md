@@ -27,9 +27,7 @@ Minnesota born and raised, I have a special affection for l’etoile du nord and
 - Embracing my transition to crone
 
 ## About this site
-I am looking for a [new job](https://www.linkedin.com/in/charityfretty/){:target="_blank" rel="noopener"}.
-
-As noted, my focus has shifted from full-time writing. I want to create a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
+As noted, I haven't been a full-time writer in a while. I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
 
 Since I’m here, I will add posts on personal topics, hence northern miscellany.
 
