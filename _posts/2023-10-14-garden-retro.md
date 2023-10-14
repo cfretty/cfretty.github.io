@@ -71,7 +71,7 @@ Steps
 3. Remove the jalapeño seeds and chop the pepper and tomatillos.
 5. Transfer the jalapeño and tomatillos to a medium, nonreactive bowl.
 6. Coarsely chop the avocados and add to the bowl.
-7. With a fork, mash the avocado with the tomatillos and jalapeño, then mash in lime juice and salt.
+7. With a fork, mash the avocado with the tomatillos and jalapeño, then mash in lime juice, cilantro, and salt.
 
 Taste, adjust seasonings, enjoy with chips, veg, or atop cornbread or toast.
 
