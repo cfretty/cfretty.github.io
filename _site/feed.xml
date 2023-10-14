@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Northern Miscellany</title>
   <subtitle>Charity Fretty's website and blog.</subtitle>
-  <updated>2023-09-05T18:06:13-05:00</updated>
+  <updated>2023-10-14T16:48:44-05:00</updated>
   <author>
     <name>Charity Fretty</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Garden retrospective</title>
+    <link href="http://localhost:4000/posts/garden-retro/" rel="alternate" type="text/html" title="Garden retrospective" />
+    <published>2023-10-14T09:00:00-05:00</published>
+  
+    <updated>2023-10-14T09:00:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/garden-retro/</id>
+    <content src="http://localhost:4000/posts/garden-retro/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Food and Drink" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+The summer of 2023 was about change.
+
+
+  Different sun exposure after the removal of eight mature trees in 2023, including six green ash killed by emerald ash borer. (We saw our first adult EAB June 2022, the trees were more than 50% dead by December 2022.)
+  Continuation of drought. We were in extreme drought most of the season.
+  Record number of air quality alerts.
+
+
+2023 harvest by the num...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -173,45 +216,6 @@ I enjoyed this video about go-to appetizers from Bon Appétit Test Kitchen Talks
 
       
 A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Agile vs user doc</title>
-    <link href="http://localhost:4000/posts/agile-vs-user-doc/" rel="alternate" type="text/html" title="Agile vs user doc" />
-    <published>2023-01-09T08:00:00-06:00</published>
-  
-    <updated>2023-02-17T14:02:41-06:00</updated>
-  
-    <id>http://localhost:4000/posts/agile-vs-user-doc/</id>
-    <content src="http://localhost:4000/posts/agile-vs-user-doc/" />
-    <author>
-      <name>Charity Fretty</name>
-    </author>
-
-  
-    
-    <category term="Work" />
-    
-    <category term="Technical Writing" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-When software development teams adopt agile methodologies, new conflicts can arise between the development and documentation teams. This is a post I wrote at my former job when a dev team told their technical writers that they no longer had time for documentation.
-
-Agile development methodology is not anti-documentation. When discussing Agile and documentation, it is common to get hung up on t...
     </summary>
   
 
