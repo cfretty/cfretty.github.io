@@ -8,7 +8,9 @@ image:
   alt:  statue of a nymph drying her hair
 ---
 <!-- excerpt -->
-*Now that it’s been a year, I want to share my experience with dye-strip technique to transition to gray hair.*
+*My experience with dye-strip technique to transition to gray hair.*
+
+**Update #2** *October 2023: The last of the orangey-brown ends are gone. I've got 100% natural hair. Whoa. The transition took 21 months.*
 
 **Update** *February 2023: I'm gonna try and let it grow and do something with the ends in a few months. Dye? Chop? Who knows. Stay tuned.*
 
@@ -47,7 +49,9 @@ Diana Moffitt’s [video with Katie Goes Platinum](https://youtu.be/WXCc8hDe8-M
 
 [The Gray Book - inspiration for going gray](https://www.facebook.com/groups/thegraybook/){:target="_blank" rel="noopener"} -  Facebook group
 
-![Month 1 January 2022](/assets/img/jan2022.jpg){: w="200" h=" " .normal} ![Month 7 July 2022](/assets/img/july2022.jpg){: w="200" h=" " .normal} ![Month 9 September 2022](/assets/img/sept2022.jpg){: w="200" h=" " .normal} 
+![Month 1 January 2022](/assets/img/jan2022.jpg){: w="200" h=" " .normal} ![Month 7 July 2022](/assets/img/july2022.jpg){: w="200" h=" " .normal} ![Month 9 September 2022](/assets/img/sept2022.jpg){: w="200" h=" " .normal}
 _new (dyed) part on top, old part on bottom_
+![Month 21 October 2023](/assets/img/oct2023.jpeg)
+_the final chop_
 
 _Photo by [Louis-Claude Vassé](https://commons.wikimedia.org/w/index.php?title=Creator:Louis-Claude_Vassé&action=edit&redlink=1){:target="_blank" rel="noopener"} on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nymph_drying_her_hair_MET_198991.jpg){:target="_blank" rel="noopener"}_
