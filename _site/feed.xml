@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Northern Miscellany</title>
   <subtitle>Charity Fretty's website and blog.</subtitle>
-  <updated>2023-10-14T16:48:44-05:00</updated>
+  <updated>2024-01-21T15:30:00-06:00</updated>
   <author>
     <name>Charity Fretty</name>
     <uri>http://localhost:4000/</uri>
@@ -13,10 +13,58 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 Charity Fretty </rights>
+  <rights> © 2024 Charity Fretty </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Inclusive language</title>
+    <link href="http://localhost:4000/posts/inclusive-lang/" rel="alternate" type="text/html" title="Inclusive language" />
+    <published>2024-01-20T08:00:00-06:00</published>
+  
+    <updated>2024-01-20T08:00:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/inclusive-lang/</id>
+    <content src="http://localhost:4000/posts/inclusive-lang/" />
+    <author>
+      <name>Charity Fretty</name>
+    </author>
+
+  
+    
+    <category term="Work" />
+    
+    <category term="Technical Writing" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Words matter.
+
+Thoughts on inclusive language in your communications, documentation, and team standards. Using inclusive language is good business and a basic requirement in public service.
+
+Guidelines
+Use:
+
+  principles of inclusive language; according to Dr. Suzanne Wertheim, inclusive language:
+    
+      accurately reflects reality
+        
+          The reality of the dominant group isn’t...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -24,7 +72,7 @@
     <link href="http://localhost:4000/posts/garden-retro/" rel="alternate" type="text/html" title="Garden retrospective" />
     <published>2023-10-14T09:00:00-05:00</published>
   
-    <updated>2023-10-14T09:00:00-05:00</updated>
+    <updated>2023-10-14T17:16:12-05:00</updated>
   
     <id>http://localhost:4000/posts/garden-retro/</id>
     <content src="http://localhost:4000/posts/garden-retro/" />
@@ -179,43 +227,6 @@ Snacks and small plates are my favorite way to eat. My most beloved dishes are a
 
 Background
 I enjoyed this video about go-to appetizers from Bon Appétit Test Kitchen Talks series. I was intrigued by the stuffed dates. I had the ingredients on hand, so I made them. They were fab, but I was the only one who loved ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Documentation tools work intake process</title>
-    <link href="http://localhost:4000/posts/work-intake/" rel="alternate" type="text/html" title="Documentation tools work intake process" />
-    <published>2023-01-24T08:00:00-06:00</published>
-  
-    <updated>2023-03-24T13:38:17-05:00</updated>
-  
-    <id>http://localhost:4000/posts/work-intake/</id>
-    <content src="http://localhost:4000/posts/work-intake/" />
-    <author>
-      <name>Charity Fretty</name>
-    </author>
-
-  
-    
-    <category term="Work" />
-    
-    <category term="Projects" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming ...
     </summary>
   
 
