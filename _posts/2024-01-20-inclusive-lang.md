@@ -5,7 +5,7 @@ categories: [Work,Technical Writing]
 tags: [agile,user documentation,communication,standards,work]  # TAG names should always be lowercase
 image:   
   path: /assets/img/ilikeyou_bw.jpg
-  alt:  brick wall with the phrase "i like you" painted upon it several times
+  alt:  brick wall with the phrase i like you on it
 ---
 <!-- excerpt -->
 *Words matter.*
