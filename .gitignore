@@ -86,3 +86,26 @@ node_modules/
 
 # Local History for Visual Studio Code
 .history/
+
+# add from cotes2020 chirpy project
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+
+# Misc
+assets/js/dist
