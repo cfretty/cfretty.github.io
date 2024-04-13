@@ -13,20 +13,23 @@
   
 >
 
-  <!--
-  The Head
--->
+  <!-- The Head -->
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f7f7f7">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta
+    name="viewport"
+    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+  >
 
   
-
     
 
     
-
   
 
   
@@ -35,7 +38,7 @@
 
   
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.3.2" />
+<meta name="generator" content="Jekyll v4.3.3" />
 <meta property="og:title" content="Northern Miscellany" />
 <meta property="og:locale" content="en" />
 <meta name="description" content="Charity Fretty’s website and blog." />
@@ -44,6 +47,7 @@
 <meta property="og:url" content="http://localhost:4000/" />
 <meta property="og:site_name" content="Northern Miscellany" />
 <meta property="og:type" content="website" />
+<link rel="next" href="http://localhost:4000/page2" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Northern Miscellany" />
 <script type="application/ld+json">
@@ -75,7 +79,6 @@
 
 
   
-
     
       <link rel="preconnect" href="https://fonts.googleapis.com" >
       <link rel="dns-prefetch" href="https://fonts.googleapis.com" >
@@ -91,7 +94,6 @@
     
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
-
   
 
   <!-- GA -->
@@ -142,13 +144,12 @@
       let self = this;
 
       /* always follow the system prefers */
-      this.sysDarkPrefers.addEventListener("change", () => {
+      this.sysDarkPrefers.addEventListener('change', () => {
         if (self.hasMode) {
           if (self.isDarkMode) {
             if (!self.isSysDarkPrefer) {
               self.setDark();
             }
-
           } else {
             if (self.isSysDarkPrefer) {
               self.setLight();
@@ -159,9 +160,7 @@
         }
 
         self.notify();
-
       });
-
     } /* constructor() */
 
     get sysDarkPrefers() { return window.matchMedia("(prefers-color-scheme: dark)"); }
@@ -178,8 +177,7 @@
 
     /* get the current mode on screen */
     get modeStatus() {
-      if (this.isDarkMode
-        || (!this.hasMode && this.isSysDarkPrefer)) {
+      if (this.isDarkMode || (!this.hasMode && this.isSysDarkPrefer)) {
         return ModeToggle.DARK_MODE;
       } else {
         return ModeToggle.LIGHT_MODE;
@@ -209,39 +207,34 @@
       }, "*");
     }
 
+    flipMode() {
+      if (this.hasMode) {
+        if (this.isSysDarkPrefer) {
+          if (this.isLightMode) {
+            this.clearMode();
+          } else {
+            this.setLight();
+          }
+        } else {
+          if (this.isDarkMode) {
+            this.clearMode();
+          } else {
+            this.setDark();
+          }
+        }
+      } else {
+        if (this.isSysDarkPrefer) {
+          this.setLight();
+        } else {
+          this.setDark();
+        }
+      }
+
+      this.notify();
+    } /* flipMode() */
   } /* ModeToggle */
 
-  const toggle = new ModeToggle();
-
-  function flipMode() {
-    if (toggle.hasMode) {
-      if (toggle.isSysDarkPrefer) {
-        if (toggle.isLightMode) {
-          toggle.clearMode();
-        } else {
-          toggle.setLight();
-        }
-
-      } else {
-        if (toggle.isDarkMode) {
-          toggle.clearMode();
-        } else {
-          toggle.setDark();
-        }
-      }
-
-    } else {
-      if (toggle.isSysDarkPrefer) {
-        toggle.setLight();
-      } else {
-        toggle.setDark();
-      }
-    }
-
-    toggle.notify();
-
-  } /* flipMode() */
-
+  const modeToggle = new ModeToggle();
 </script>
 
   
@@ -349,14 +342,16 @@
       
       <a href="https://github.com/cfretty" aria-label="github"
         
+
         
-          
           target="_blank"
+          
         
 
         
 
-        rel="noopener">
+        rel="noopener noreferrer">
+
         <i class="fab fa-github"></i>
       </a>
       
@@ -367,14 +362,16 @@
       
       <a href="https://www.linkedin.com/in/charityfretty/" aria-label="linkedin"
         
+
         
-          
           target="_blank"
+          
         
 
         
 
-        rel="noopener">
+        rel="noopener noreferrer">
+
         <i class="fab fa-linkedin"></i>
       </a>
       
@@ -383,14 +380,15 @@
       
 
       
-      <a href="
-          javascript:location.href = 'mailto:' + ['charityfretty','gmail.com'].join('@')" aria-label="email"
+      <a href="javascript:location.href = 'mailto:' + ['charityfretty','gmail.com'].join('@')" aria-label="email"
         
+
         
 
         
 
         >
+
         <i class="fas fa-envelope"></i>
       </a>
       
@@ -401,11 +399,13 @@
       
       <a href="/feed.xml" aria-label="rss"
         
+
         
 
         
 
         >
+
         <i class="fas fa-rss"></i>
       </a>
       
@@ -499,8 +499,74 @@
 
 
 
+  <div class="post-preview"><a href="/posts/sugaring-retro-2024/">
+      <img src="/assets/img/treetap.png" alt="spile in a tree with a drop of sap" class="post-preview-image">
+    </a><h1>
+      <a href="/posts/sugaring-retro-2024/">Sugaring retrospective 2024</a>
+    </h1>
+
+    <div class="post-content">
+      <p>
+        
+
+
+
+
+
+        
+Making maple syrup from our silver maples in the winter that wasn’t.
+
+Tap the trees , collect the sap , boil the sap , finish the syrup
+
+2024 sugaring by the numbers
+
+  6 days from tap day to boil...
+      </p>
+    </div>
+
+    <div class="post-meta text-muted d-flex">
+      <div class="mr-auto">
+
+        <!-- posted date -->
+        <i class="far fa-calendar fa-fw"></i>
+        <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+
+<em class=""
+    data-ts="1712412000"
+    data-df="ll"
+    >
+  Apr  6, 2024
+</em>
+
+
+        <!-- categories -->
+        
+          <i class="far fa-folder-open fa-fw"></i>
+          <span>
+          
+            Food and Drink
+          </span>
+        
+
+      </div>
+
+      
+
+    </div> <!-- .post-meta -->
+
+  </div> <!-- .post-review -->
+
+
+
   <div class="post-preview"><a href="/posts/inclusive-lang/">
-      <img src="/assets/img/ilikeyou_bw.jpg" alt="brick wall with the phrase "i like you" painted upon it several times" class="post-preview-image">
+      <img src="/assets/img/ilikeyou_bw.jpg" alt="brick wall with the phrase i like you on it" class="post-preview-image">
     </a><h1>
       <a href="/posts/inclusive-lang/">Inclusive language</a>
     </h1>
@@ -1060,71 +1126,6 @@ Update #2 October 2023: The last of the orangey-brown ends are gone. I’ve got 
 
 
 
-  <div class="post-preview"><a href="/posts/testing-one-two/">
-      <img src="/assets/img/microphone.jpg" alt="microphone" class="post-preview-image">
-    </a><h1>
-      <a href="/posts/testing-one-two/">Testing one two, one two. Sibilance, sibilance.</a>
-    </h1>
-
-    <div class="post-content">
-      <p>
-        
-
-
-
-
-
-        
-Hello world post.
-
-Coming soon. A post on a particular topic, but for now, keep it short, kid. Otherwise, you’ll go down yet another rabbit hole.
-
-Photo by Matt Botsford on Unsplash
-
-      </p>
-    </div>
-
-    <div class="post-meta text-muted d-flex">
-      <div class="mr-auto">
-
-        <!-- posted date -->
-        <i class="far fa-calendar fa-fw"></i>
-        <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
-
-
-
-
-
-<em class=""
-    data-ts="1671372000"
-    data-df="ll"
-    >
-  Dec 18, 2022
-</em>
-
-
-        <!-- categories -->
-        
-          <i class="far fa-folder-open fa-fw"></i>
-          <span>
-          
-            Other
-          </span>
-        
-
-      </div>
-
-      
-
-    </div> <!-- .post-meta -->
-
-  </div> <!-- .post-review -->
-
-
-
 </div> <!-- #post-list -->
 
 
@@ -1165,17 +1166,34 @@ Photo by Matt Botsford on Unsplash
 
   
 
+    
+    
+    
+    
+    
+
+    
+
+    
+      <!-- show number -->
+      <li class="page-item ">
+        <a class="page-link btn-box-shadow" href="/page2">2</a>
+      </li>
+    
+
+  
+
   <!-- mobile pagination -->
   <li class="page-index align-middle">
     <span>1</span>
-    <span class="text-muted">/ 1</span>
+    <span class="text-muted">/ 2</span>
   </li>
 
   <!-- right arrow -->
   
 
-  <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#" aria-label="next-page">
+  <li class="page-item ">
+    <a class="page-link btn-box-shadow" href="/page2" aria-label="next-page">
       <i class="fas fa-angle-right"></i>
     </a>
   </li>
@@ -1218,6 +1236,11 @@ Photo by Matt Botsford on Unsplash
         
         
         
+      <li><a href="/posts/inclusive-lang/">Inclusive language</a></li>
+      
+        
+        
+        
       <li><a href="/posts/garden-retro/">Garden retrospective</a></li>
       
         
@@ -1234,11 +1257,6 @@ Photo by Matt Botsford on Unsplash
         
         
       <li><a href="/posts/work-intake/">Documentation tools work intake process</a></li>
-      
-        
-        
-        
-      <li><a href="/posts/testing-one-two/">Testing one two, one two. Sibilance, sibilance.</a></li>
       
     </ul>
   </div> <!-- #access-lastmod -->
@@ -1302,6 +1320,22 @@ Photo by Matt Botsford on Unsplash
     
     
     
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
   
     
     
@@ -1317,10 +1351,7 @@ Photo by Matt Botsford on Unsplash
     
     
     
-  
-    
-    
-    
+      
     
   
     
@@ -1433,157 +1464,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
       
     
   
@@ -1630,78 +1510,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -1769,6 +1577,691 @@ Photo by Matt Botsford on Unsplash
     
     
     
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
       
         
         
@@ -1784,160 +2277,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -1959,7 +2298,19 @@ Photo by Matt Botsford on Unsplash
       <a class="post-tag" href="/tags/agile/">agile</a>
     
       
+      <a class="post-tag" href="/tags/cocktail/">cocktail</a>
+    
+      
+      <a class="post-tag" href="/tags/maple-syrup/">maple syrup</a>
+    
+      
       <a class="post-tag" href="/tags/recipe/">recipe</a>
+    
+      
+      <a class="post-tag" href="/tags/silver-maple/">silver maple</a>
+    
+      
+      <a class="post-tag" href="/tags/sugaring/">sugaring</a>
     
       
       <a class="post-tag" href="/tags/user-documentation/">user documentation</a>
@@ -1972,18 +2323,6 @@ Photo by Matt Botsford on Unsplash
     
       
       <a class="post-tag" href="/tags/appetizers/">appetizers</a>
-    
-      
-      <a class="post-tag" href="/tags/blog/">blog</a>
-    
-      
-      <a class="post-tag" href="/tags/cocktail/">cocktail</a>
-    
-      
-      <a class="post-tag" href="/tags/communication/">communication</a>
-    
-      
-      <a class="post-tag" href="/tags/crone/">crone</a>
     
 
     </div>
@@ -2065,6 +2404,22 @@ Photo by Matt Botsford on Unsplash
     
     
     
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
   
     
     
@@ -2080,10 +2435,7 @@ Photo by Matt Botsford on Unsplash
     
     
     
-  
-    
-    
-    
+      
     
   
     
@@ -2196,157 +2548,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
       
     
   
@@ -2393,78 +2594,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -2532,6 +2661,691 @@ Photo by Matt Botsford on Unsplash
     
     
     
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
       
         
         
@@ -2547,160 +3361,6 @@ Photo by Matt Botsford on Unsplash
     
     
     
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-        
-        
-
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-      
     
   
     
@@ -2722,7 +3382,19 @@ Photo by Matt Botsford on Unsplash
       <a class="post-tag" href="/tags/agile/">agile</a>
     
       
+      <a class="post-tag" href="/tags/cocktail/">cocktail</a>
+    
+      
+      <a class="post-tag" href="/tags/maple-syrup/">maple syrup</a>
+    
+      
       <a class="post-tag" href="/tags/recipe/">recipe</a>
+    
+      
+      <a class="post-tag" href="/tags/silver-maple/">silver maple</a>
+    
+      
+      <a class="post-tag" href="/tags/sugaring/">sugaring</a>
     
       
       <a class="post-tag" href="/tags/user-documentation/">user documentation</a>
@@ -2735,18 +3407,6 @@ Photo by Matt Botsford on Unsplash
     
       
       <a class="post-tag" href="/tags/appetizers/">appetizers</a>
-    
-      
-      <a class="post-tag" href="/tags/blog/">blog</a>
-    
-      
-      <a class="post-tag" href="/tags/cocktail/">cocktail</a>
-    
-      
-      <a class="post-tag" href="/tags/communication/">communication</a>
-    
-      
-      <a class="post-tag" href="/tags/crone/">crone</a>
     
 
     </div>
@@ -2850,12 +3510,9 @@ SimpleJekyllSearch({
 </script>
 
 
-    <!--
-  JS selector for site.
--->
+    <!-- JS selector for site. -->
 
 <!-- layout specified -->
-
 
 
 
@@ -2919,8 +3576,7 @@ SimpleJekyllSearch({
 
 
 
-
-<script defer src="/assets/js/dist/home.min.js"></script>
+<script defer src="/assets/js/dist/misc.min.js"></script>
 
 
 
