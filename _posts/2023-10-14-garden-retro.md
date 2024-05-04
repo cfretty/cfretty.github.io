@@ -1,7 +1,7 @@
 ---
 title: Garden retrospective
 date: 2023-10-14 08:00:00 -0600
-categories: [Food and Drink]
+categories: [Home and Garden]
 tags: [gardening,vegetables,recipe,guacamole]  # TAG names should always be lowercase
 image:   
   path: /assets/img/tomatoblossom.jpg
