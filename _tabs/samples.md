@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 2
+icon: fas fa-file-text
+order: 3
 
 ---
 <!--![big dipper and north star](/assets/img/northstar.jpg)-->
