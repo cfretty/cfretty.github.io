@@ -6,9 +6,8 @@ order: 1
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash
 ---
-![big dipper and north star](/assets/img/northstar.jpg)
 
-## *Hi. Charity Fretty. Damn glad to meet you.*
+*Hi. Charity Fretty. Damn glad to meet you.*
 ## About me
 I live in Columbia Heights, a first-ring suburb of Minneapolis, MN.
 
@@ -30,6 +29,8 @@ Minnesota born and raised, I have a special affection for l’etoile du nord and
 As noted, I haven't been a full-time writer in a while. I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
 
 Since I’m here, I will add posts on personal topics, hence northern miscellany.
+
+![big dipper and north star](/assets/img/stars.jpg)
 
 _[North star icons created by Freepik - Falticon](https://www.flaticon.com/free-icons/north-star){:target="_blank" rel="noopener"}_
 
