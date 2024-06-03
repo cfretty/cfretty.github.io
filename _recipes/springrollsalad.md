@@ -11,10 +11,10 @@ This dressing is worth the long ingredient list. The veg base means it has an un
 
 ## Dressing ingredients
 - Carrots, peeled and rough chop - 4 medium
-- Onion, rough chop - .5 medium
+- Onion, rough chop - .5 medium (½ medium)
 - Ginger, rough chop - 1.5 T
 - Rice vinegar - .5 cup
-- Tamari or soy sauce - .24 cup
+- Tamari or soy sauce - .25 cup (¼ cup)
 - Peanut butter - 6 T
 - Maple syrup - 3 T
 - Avocado oil - 2 T
@@ -34,7 +34,7 @@ Blend until smooth.
 - Cilantro - 1 cup
 - Scallions - 1 cup
 - Vermicelli rice noodles, cooked and cut into bite-sized lengths - 3 oz
-- Nuts, roasted and chopped - .3 cup (Optional, diva's choice)
+- Nuts, roasted and chopped - .3 cup (Optional, diva's choice) (⅓ cup)
 - Other optional additions: avocado, sesame seeds
 
 ## Salad method
