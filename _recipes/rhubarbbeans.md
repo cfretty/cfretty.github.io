@@ -21,9 +21,9 @@ Technically, 10 servings.
 - Yellow mustard - 2 tsp
 
 ## Method
-Preheat oven to 350 degrees F. In a large skillet, cook bacon until crisp. Remove. In drippings, cook rhubarb and onion about two minutes or until tender. Add ginger and salt, cook one minute more.
+Preheat oven to 350 degrees F. In a large skillet (or heavy-bottomed, oven safe pan like the Staub wok), cook bacon until crisp. Remove. In drippings, cook rhubarb and onion about two minutes or until tender. Add ginger and salt, cook one minute more.
 
-Stir in beans, tomato sauce, brown sugar, mustard, and cooked bacon. Transfer to 1.5 quart baking dish. (Or keep it one-pan by using Staub pan to cook bacon and veg.) Cover and bake 25 minutes. Uncover and bake 20 minutes more or until surface no longer looks wet (start checking at about 15 minutes).
+Stir in beans, tomato sauce, brown sugar, mustard, and cooked bacon. Transfer to 1.5 quart baking dish or use one pan, see note above. Cover and bake 25 minutes. Uncover and bake 20 minutes more or until surface no longer looks wet (start checking at about 15 minutes).
 
 ## Source 
 [Midwest Living via cousin Sara](https://www.midwestliving.com/recipe/rhubarb-baked-beans/){:target="_blank" rel="noopener"}

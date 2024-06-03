@@ -37,4 +37,4 @@ Place the pot in the over and cook until the sauce is bubbling aroudn the sides 
 Serve with crusty bread or a grain side to sop up the sauce.
 
 ## Source 
-[Chowhound - Amy Wisniewski](https://www.chowhound.com/){:target="_blank" rel="noopener"}(the original Chowhound, RIP)
+[Chowhound - Amy Wisniewski](https://www.chowhound.com/){:target="_blank" rel="noopener"} (the original Chowhound, RIP)
