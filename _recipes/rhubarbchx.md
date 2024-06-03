@@ -7,7 +7,7 @@ description: Technically, rhubarb is a vegetable.
 #tags: []
 ---
 
-Four servings (original recipe, halved). Add rhubarb at the end to retain the flavor and texture.
+Four servings (original recipe, halved). Consider doubling the sauce. Add rhubarb at the end to retain the flavor and texture.
 
 ## Ingredients
 - Bone-in, skin-on chicken thighs - 4 (about 1.5 lbs)
@@ -22,8 +22,6 @@ Four servings (original recipe, halved). Add rhubarb at the end to retain the fl
 - Honey - 2 Tbsp
 - Orange juice, fresh squeezed or whatever you have - 2 Tbsp
 - Rhubarb, medium dice - .5 lb
-
-`*`Consider doubling the sauce.
 
 ## Method
 Preheat oven to 375 degrees F, rack in middle. Pat the chicken dry, salt and pepper generously.
