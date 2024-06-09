@@ -3,14 +3,14 @@ layout: recipe
 title: Cilantro lime sauce
 date: 2020-09-12 08:00:00 -0600
 description: The addictive sauce from Brasa Rotisserie.
-categories: [Condiment]
-tags: [ ]
+# categories: [Condiment]
+# tags: [ ]
 # image:  
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash
 ---
 
-Part of "[City Tins 2020 the pandemic year](/../posts/city-tins-2020/)." This sauce is good with pork, chicken, tortilla chips, yuca, plaintain, potatoes...you get the idea.
+Part of "City Tins 2020 the pandemic year." This sauce is good with pork, chicken, tortilla chips, yuca, plaintain, potatoes...you get the idea.
 
 ## Ingredients
 - Jalapeños, ribs and seeds removed - 2 large

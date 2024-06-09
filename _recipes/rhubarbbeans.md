@@ -3,8 +3,8 @@ layout: recipe
 title: Rhubarb baked beans
 date: 2018-06-05 08:00:00 -0600
 description: Savory and sweet. Just try it.
-categories: [Side]
-tags: [rhubarb, beans]
+# categories: [Side]
+# tags: [rhubarb, beans]
 ---
 
 Technically, 10 servings.

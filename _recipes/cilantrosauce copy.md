@@ -3,8 +3,8 @@ layout: recipe
 title: Cranberry sauce
 date: 2023-11-19 08:00:00 -0600
 description: Crans sans the can.
-categories: [Condiment]
-tags: [ ]
+# categories: [Condiment]
+# tags: [ ]
 # image:  
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash

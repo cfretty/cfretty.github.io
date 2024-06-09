@@ -3,8 +3,8 @@ layout: recipe
 title: Susan's margaritas
 date: 2021-07-31 08:00:00 -0600
 description: My friend's mama makes the BEST margaritas.
-categories: [Cocktail]
-tags: [ ]
+# categories: [Cocktail]
+# tags: [ ]
 # image:  
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash
