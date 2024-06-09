@@ -1,5 +1,7 @@
 # cfretty.github.io
-RELEASE HISTORY 
+RELEASE HISTORY
+
+2024-05-27: Customize Chirpy theme to include a new Jekyll collection called recipes. See [Pull Request](https://github.com/cfretty/cfretty.github.io/pull/45/files)
 
 2023-02-08: Personal website edition using GitHub Pages and Chirpy theme. More information:
 - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
