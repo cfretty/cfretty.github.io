@@ -3,8 +3,8 @@ layout: recipe
 title: Best pb&j
 date: 2024-05-25 08:00:00 -0600
 description: The best pb and j also includes crunchy, salty, nacho-cheesy goodness.
-categories: [Sandwich]
-tags: [peanut butter,cravings,kid food]
+# categories: [Sandwich]
+# tags: [peanut butter,cravings,kid food]
 # image:  
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash

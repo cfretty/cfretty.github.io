@@ -3,8 +3,8 @@ layout: recipe
 title: Beer spread
 date: 2019-10-15 08:00:00 -0600
 description: Serve with Aki's pretzel sticks and thank me later.
-categories: [Appetizer,Dip]
-tags: [ ]
+# categories: [Appetizer,Dip]
+# tags: [ ]
 # image:  
 #   path: /assets/img/northstar.jpg
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash

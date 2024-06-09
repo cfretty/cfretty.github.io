@@ -3,8 +3,8 @@ layout: recipe
 title: Rhubarb braised chicken thighs
 date: 2020-06-04 08:00:00 -0600
 description: Technically, rhubarb is a vegetable.
-categories: [Main course,Chicken]
-tags: [rhubarb]
+# categories: [Main course,Chicken]
+# tags: [rhubarb]
 ---
 
 Four servings (original recipe, halved). Consider doubling the sauce. Add rhubarb at the end to retain the flavor and texture.

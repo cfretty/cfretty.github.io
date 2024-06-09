@@ -3,8 +3,8 @@ layout: recipe
 title: Spring roll salad
 date: 2023-04-01 08:00:00 -0600
 description: Less fussy than working with rice paper wrappers. Kinda sorta bún chả giò -ish.
-categories: [Salad]
-tags: []
+# categories: [Salad]
+# tags: []
 ---
 
 This dressing is worth the long ingredient list. The veg base means it has an unusual texture, but the taste is surprisingly close to takeout sauce. This recipe makes 2 cups dressing, unless you can use it up quickly, half it. This salad is good for meal prep lunches.

@@ -3,8 +3,8 @@ layout: recipe
 title: Caesar dressing
 date: 2018-11-07 08:00:00 -0600
 description: Easy and delicious, classic flavors with pantry staples.
-categories: [Salad]
-tags: []
+# categories: [Salad]
+# tags: []
 ---
 
 Makes enough for three generous salads, approximately four side salads. This is half the original recipe, scale as needed.
