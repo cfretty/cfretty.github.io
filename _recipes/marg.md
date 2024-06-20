@@ -12,7 +12,7 @@ description: My friend's mama makes the BEST margaritas.
 
 Instead of Cointreau, you can use O3 Orange Liqueur, Grand Marnier, or Dry Orange Curaçao.
 
-Serve with my mama-in-law's guacamole and chips. Mama Joyce's guac: avocado, fresh squeezed lemon, coarse salt. That is all.
+Serve with my mother-in-law's guacamole and chips. Mother Joyce's guac: avocado, fresh squeezed lemon, coarse salt. That is all.
 
 Makes four margaritas.
 
