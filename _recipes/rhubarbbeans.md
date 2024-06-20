@@ -7,7 +7,7 @@ description: Savory and sweet. Just try it.
 # tags: [rhubarb, beans]
 ---
 
-Technically, 10 servings.
+Technically 10 servings.
 
 ## Ingredients
 - Thick cut bacon, chopped or lardons - 4 slices

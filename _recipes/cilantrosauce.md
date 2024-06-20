@@ -10,7 +10,7 @@ description: The addictive sauce from Brasa Rotisserie.
 #   alt:  big dipper and north star detail from photo by John Fowler on Unsplash
 ---
 
-Part of "City Tins 2020 the pandemic year." This sauce is good with pork, chicken, tortilla chips, yuca, plaintain, potatoes...you get the idea.
+Part of "City Tins 2020 the pandemic year." This sauce is good with pork, chicken, tortilla chips, yuca, plantain, potatoes...you get the idea.
 
 ## Ingredients
 - Jalapeños, ribs and seeds removed - 2 large
