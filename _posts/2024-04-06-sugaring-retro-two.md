@@ -24,7 +24,7 @@ Boy howdy. What a dumb [non-winter winter](https://www.dnr.state.mn.us/climate/j
 
 I heard many folks tapped their trees in January. We figured we missed our chance and decided to skip it this year. But we had a change of heart when we discovered a dwindling supply of syrup in our cellar and a free weekend.
 
-Boiling seems feels like it will be a lot of work, but once you get started it isn't bad. And what else are you gonna do on an early spring day when you can't garden or play? It's a good excuse to hang outside and get a little vitamin D.
+Boiling seems like it will be a lot of work, but once you get started it isn't bad. And what else are you gonna do on an early spring day when you can't garden or play? It's a good excuse to hang outside and get a little vitamin D.
 
 ## Tap the trees
 On February 25, we tapped both silver maples. One spile each. We collected sap for only three days. Daytime high temps were right: 45, 52, and 41 degrees F. Nighttime lows were not ideal: 37, 30, 39 degrees F.
@@ -75,7 +75,7 @@ Steps
 _scene from sugaring 2024_
 
 ## References
-["The Lost Winter of 2022-23"](https://www.dnr.state.mn.us/climate/journal/lost-winter-2023-24.html){:target="_blank" rel="noopener"} - MN DNR
+["The Lost Winter of 2023-24"](https://www.dnr.state.mn.us/climate/journal/lost-winter-2023-24.html){:target="_blank" rel="noopener"} - MN DNR
 
 ["How to Make Your Own Maple Syrup"](https://www.treehugger.com/learn-how-to-make-maple-syrup-3016985){:target="_blank" rel="noopener"} - Lauren Arcuri, for detailed steps and more information
 
