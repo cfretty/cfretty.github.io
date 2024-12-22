@@ -2,7 +2,7 @@
 title: Reduce technical debt
 date: 2024-08-12 08:00:00 -0600
 description: Thoughts on reducing technical debt
-categories: [Work,projects]
+categories: [Work, Projects]
 tags: [debt,standards,strategies]  # TAG names should always be lowercase
 image:   
    path: /assets/img/brickwall.jpg

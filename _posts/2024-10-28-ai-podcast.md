@@ -2,7 +2,7 @@
 title: The viral AI podcast functionality
 date: 2024-10-28 08:00:00 -0600
 description: My review of an AI podcast
-categories: [Work,projects]
+categories: [Technology]
 tags: [artificial intelligence,ai]  # TAG names should always be lowercase
 image:   
    path: /assets/img/podcast.jpg
