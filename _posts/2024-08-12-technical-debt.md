@@ -11,7 +11,7 @@ image:
 <!-- excerpt -->
 *In some ways, technical debt is like financial debt.*
 
-When you carry too much, it can be overwhelming and prevents you from accomplishing much else. In an ideal world, the best way to handle financial or technical debt is to minimize or avoid it altogether. A more pragmatic approach is to have some strategies in your toolkit: toolbox
+When you carry too much, it can be overwhelming and prevents you from accomplishing much else. In an ideal world, the best way to handle financial or technical debt is to minimize or avoid it altogether. A more pragmatic approach is to have some strategies in your toolkit:
 
 # Have an emergency fund
 
@@ -43,7 +43,7 @@ Make time to experiment and evaluate new releases, technologies, and products as
 
 Understand the impact of changes. Major changes likely require a project. Get project conversations going early.
 
-# Consider and agree upon payoff methods snowflake
+# Consider and agree upon payoff methods
 
 E.g., avalanche vs snowball
 
