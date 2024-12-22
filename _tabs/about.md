@@ -17,7 +17,7 @@ I am passionate about optimizing content for my audiences. I am also interested 
 
 Professionally and personally, the lodestar is an important symbol to me.
 
-Minnesota born and raised, I have a special affection for l’etoile du nord and life on the 45th parallel north. In life, and in no particular order, I am:
+Minnesota born and raised, I have a special affection for L'Étoile du Nord and life on the 45th parallel north. In life, and in no particular order, I am:
 - Wife, auntie, friend
 - Housemate to a [big ginger cat](/assets/img/whiskey_tango_foxtrot.jpg)
 - Homebody, gardener, above-average cook & mixologist
@@ -26,7 +26,7 @@ Minnesota born and raised, I have a special affection for l’etoile du nord and
 - Embracing my transition to crone
 
 ## About this site
-As noted, I haven't been a full-time writer in a while. I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
+I haven't been a full-time writer in a while. I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
 
 Since I’m here, I will add posts on personal topics, hence northern miscellany.
 
