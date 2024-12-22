@@ -6,7 +6,7 @@ categories: [Work, Projects]
 tags: [debt,standards,strategies]  # TAG names should always be lowercase
 image:   
    path: /assets/img/brickwall.jpg
-#   alt:  close up of 
+   alt:  an image of a brick wall with the phrase "until debt tear us apart" 
 ---
 <!-- excerpt -->
 *In some ways, technical debt is like financial debt.*
