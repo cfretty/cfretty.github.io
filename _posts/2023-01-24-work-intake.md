@@ -10,8 +10,7 @@ image:
 <!-- excerpt -->
 *A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming work requests.*
 
-A little less [Lucy and Ethel at the chocolate factory](https://youtu.be/NkQ58I53mjk?t=127){:target="_blank" rel="noopener"}
-<!-- you tube isn't working for this video, it says video unavailable {% include embed/youtube.html id='NkQ58I53mjk?start=127' %} -->
+A little less [Lucy and Ethel at the chocolate factory](https://youtu.be/NkQ58I53mjk?t=127){:target="_blank" rel="noopener"}.
   
 The Information Development DOCTOOLS team has formalized the work intake process. This will allow us to increase our efficiency, effectiveness, transparency, and consistency.
 
@@ -25,7 +24,8 @@ If you are proposing a work task, enhancement, or improvement for an existing or
 
 If your proposal is for a **new project**, use the project proposal template.
 
-NOTE: The template will request only the information we need to make a decision. Information collected but not used is a drain on resources. If something is unclear or if we have questions, we will follow up with you. 
+> NOTE: The template requests only the information we need to make a decision. Information collected but not used is a drain on resources. If something is unclear or if we have questions, we will follow up with you.
+{: .prompt-info} 
 
 ## Definition of project 
 
@@ -119,15 +119,15 @@ Architects and program manager meet once a month on for a long format project re
 *["PPM 101: How To Create A Successful Work Intake Process"](https://acuityppm.com/ppm-101-successful-work-intake-process/) - T Washington, Acuity PPM*
 
 # References
-[“PPM 101: How To Create A Successful Work Intake Process”](https://acuityppm.com/ppm-101-successful-work-intake-process/){:target="_blank" rel="noopener"}– T Washington, Acuity PPM
+"[PPM 101: How To Create A Successful Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/){:target="_blank" rel="noopener"}"– T Washington, Acuity PPM
 
-[“Intake Process”](https://www.workfront.com/project-management/life-cycle/initiation/intake-process#:~:text=A%20project%20intake%20process%20determines,that%20goes%20along%20with%20it){:target="_blank" rel="noopener"}– Adobe Workfront
+"[Intake Process](https://www.workfront.com/project-management/life-cycle/initiation/intake-process#:~:text=A%20project%20intake%20process%20determines,that%20goes%20along%20with%20it){:target="_blank" rel="noopener"}"– Adobe Workfront
 
-[“Managing your Project Intake Process is a Cornerstone of Your Success”](https://www.linkedin.com/pulse/managing-your-project-intake-process-cornerstone-don-clarke-pmp){:target="_blank" rel="noopener"}- D Clarke, LinkedIn
+"[Managing your Project Intake Process is a Cornerstone of Your Success](https://www.linkedin.com/pulse/managing-your-project-intake-process-cornerstone-don-clarke-pmp){:target="_blank" rel="noopener"}"- D Clarke, LinkedIn
 
-[“4 Signs Your Project Intake Process Is Outdated”](https://www.wrike.com/blog/project-intake-process/){:target="_blank" rel="noopener"}– L Quiambao, Wrike  
+"[4 Signs Your Project Intake Process Is Outdated”](https://www.wrike.com/blog/project-intake-process/){:target="_blank" rel="noopener"}"– L Quiambao, Wrike  
 
-[“Tips to Create the Perfect Intake Process Template for Project Work”](https://www.wrike.com/blog/intake-process-template-project-work/){:target="_blank" rel="noopener"}– K Boogaard, Wrike
+"[Tips to Create the Perfect Intake Process Template for Project Work](https://www.wrike.com/blog/intake-process-template-project-work/){:target="_blank" rel="noopener"}"– K Boogaard, Wrike
 
 _Photo by [Hombre](https://unsplash.com/de/@hombre){:target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/photos/qiSxer3QF2I){:target="_blank" rel="noopener"}_
   
