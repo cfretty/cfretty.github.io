@@ -6,7 +6,7 @@ categories: [Technology]
 tags: [artificial intelligence,ai]  # TAG names should always be lowercase
 image:   
    path: /assets/img/podcast.jpg
-   alt:  image of a microphone and a computer screen in the background 
+   alt:  microphone and a computer screen in the background 
 ---
 <!-- excerpt -->
 *In early October 2024, the Google research tool called NotebookLM caused a viral sensation due to the Audio Overview (aka deep dive) feature that generates a two-host podcast.*

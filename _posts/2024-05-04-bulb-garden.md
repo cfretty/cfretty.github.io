@@ -5,7 +5,7 @@ categories: [Home and Garden]
 tags: [gardening,bulbs,flowers,spring,tulips,pandemic]  # TAG names should always be lowercase
 image:   
   path: /assets/img/bulb_garden.jpg
-  alt:  close up of spring bulbs
+  alt:  close up of spring blooms
 ---
 <!-- excerpt -->
 *My best pandemic project.*
