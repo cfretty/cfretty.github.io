@@ -5,7 +5,7 @@ categories: [Home and Garden]
 tags: [gardening,vegetables]  # TAG names should always be lowercase
 image:   
   path: /assets/img/greenbeans.jpg
-  alt:  close up of green beans
+  alt:  green beans
 ---
 <!-- excerpt -->
 *The summer of 2024 we gave the beds a rest.*
