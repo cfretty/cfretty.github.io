@@ -5,7 +5,7 @@ categories: [Work, Projects]
 tags: [doctools,intake,program management,projects,technical program manager]  # TAG names should always be lowercase
 image:
   path: /assets/img/doorwelcome.jpg
-  alt:  door with welcome sign
+  alt:  threshold with a welcome sign
 ---
 <!-- excerpt -->
 *A process I developed at my last job. As technical program manager for the tools team, I needed to ensure we were focusing on the right work and seeing projects through to completion. Before this process, the team played whack-a-mole, targeting whatever new work popped up. There was no visibility into what the tools team was working on. There was no process to evaluate and prioritize incoming work requests.*
