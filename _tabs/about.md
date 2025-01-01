@@ -26,7 +26,7 @@ Minnesota born and raised, I have a special affection for L'Étoile du Nord and 
 - Embracing my transition to crone
 
 ## About this site
-I haven't been a full-time writer in a while. I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
+I want a personal portfolio with some up-to-date writing samples. I am also learning a bit about various techniques to create and maintain blogs.
 
 Since I’m here, I will add posts on personal topics, hence northern miscellany.
 
