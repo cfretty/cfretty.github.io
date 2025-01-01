@@ -7,7 +7,7 @@ order: 3
 <!--![big dipper and north star](/assets/img/northstar.jpg)-->
 
 ## Technical docs
-[Principles of good technical documentation](/assets/files/principles-technical-documentation.pdf){:target="_blank" rel="noopener"}<br>Summary of "Developing Quality Technical Information" on the team wiki.<br>Audience: IT development and support staff who need to write technical documentation.
+"[Principles of good technical documentation](/assets/files/principles-technical-documentation.pdf){:target="_blank" rel="noopener"}"<br>Summary of *Developing Quality Technical Information* on the team wiki.<br>Audience: IT development and support staff who need to write technical documentation.
 
 [Internal article and FAQ about docs website CDN](/assets/files/about_docs_cdn_content_caching.pdf){:target="_blank" rel="noopener"}<br>Informational article on the team wiki.<br>Audience: Technical writers who post content to the docs.infor.com portal.
 
