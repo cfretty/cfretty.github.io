@@ -27,6 +27,7 @@ order: 3
 * [Doctools work intake process](/posts/work-intake/)
 * [Agile vs User Doc](/posts/agile-vs-user-doc/)
 * [Reduce technical debt](/posts/technical-debt/)
+* [Style guide](/posts/style-guide-mnit-mpca/)
 
 
 <!--_Big dipper and north star, detail from photo by [John Fowler](https://unsplash.com/@wildhoney) on [Unsplash](https://unsplash.com/photos/9qgKQewttVs){:target="_blank" rel="noopener"}_-->
