@@ -8,11 +8,11 @@ image:
   alt:  laptop and a cup of coffee
 ---
 <!-- excerpt -->
-*A style guide for my work at Minnesota IT Services partnering with Minnesota Pollution Control Agency (MNIT MPCA).*
+*A style guide for my work at state IT agency.*
 
-This guide provides editorial guidelines for writing technical documentation at MNIT MPCA. The topics here are guidelines, not rules. It’s OK to break them if it will make your content simpler, clearer, or more accurate.
+This guide provides editorial guidelines for writing technical documentation at team. The topics here are guidelines, not rules. It’s OK to break them if it will make your content simpler, clearer, or more accurate.
 
-> This guide is a supplement, not a comprehensive writing style guide. Add information here when primary references don’t provide explicit guidance. Technical documentation is different than marketing or other communications. Here are considerations and exceptions for technical information and MNIT MPCA products.
+> This guide is a supplement, not a comprehensive writing style guide. Add information here when primary references don’t provide explicit guidance. Technical documentation is different than marketing or other communications. Here are considerations and exceptions for technical information and our products.
 {: .prompt-tip }
 
 ## Plain language :star:
