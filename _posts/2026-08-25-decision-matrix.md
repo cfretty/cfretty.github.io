@@ -19,7 +19,6 @@ Requirements:
 3. Maintenance. We obviously need a low-maintenance option, deferred deck maintenance is part of the reason we got here.
 4. Green factor. Would like to be as eco-friendly as feasible.
 
-
 # Comparison
 
 ## Definition
@@ -31,9 +30,9 @@ Requirements:
 | Info/criteria                 | Patio              | Deck         |
 | ----------------------------- | ----------------- | ----------------- |
 | **Materials**                 | Gravel, pavers<br>cement and brick work<br>iron or aluminum railing for stoop     | Wood or composite <br>railings and trim<br>staircase<br>footers and beams   |
-| **Benefits**            | Privacy<br>low maintenance<br>materials can be sourced from small businesses | DIY (except footings?)<br>Easier access and use from house   |
+| **Benefits**            | Privacy<br>low maintenance<br>materials can be sourced from small businesses | DIY (except footings?)<br>Easier access from house   |
 | **Drawbacks**         | Use and traffic pattern changes<br>design decisions<br>work needs contractors<br>siding repair | Footing and beams may not be repairable<br>shorter life-span<br>big changes require a permit and inspection     |
-| **Estimated budget**          | Initial + ongoing | Initial + ongoing |
+| **Estimated budget**          | Initial + ongoing in progress | Initial + ongoing in progress |
 | **Complexity**                | Med  |  High  |
 | **Timeline**                  | Several months          | A few weekends once we have supplies          |
 | **Major risks**               | May not be done by winter         | Measurements<br>Will have to redo in a few years         |
@@ -53,13 +52,13 @@ Score against criteria that matter to the project:
 | Green factor        |      15% |        8 |        1.2 |        5 |        .75 |
 | **Total**           | **100%** |          |   **8.25** |         |    **6.2** |
 
-# More information
+# More information - WIP
 <div class="row-cols">
   <div class="col-box">
     <h3>Patio</h3>
-        <h4>Materials or components</h4>
-        <h4>Cost breakdown</h4>
-        <h4>Risks / unkonws</h4>
+        <h4>Materials or components</h4><p>Concrete pavers, materials for base layers, and steps TBD.</p>
+        <h4>Cost breakdown</h4><p>In progress</p>
+        <h4>Risks / unknowns</h4><p>Existing stuff buried in the area</p>
         <h4>Dependencies</h4>
         <h4>Contingency</h4>
         <h4>Considerations</h4>
@@ -67,9 +66,9 @@ Score against criteria that matter to the project:
   </div>
   <div class="col-box">
     <h3>Deck</h3>
-        <h4>Materials or components</h4>
-        <h4>Cost breakdown</h4>
-        <h4>Risks / unkonws</h4>
+        <h4>Materials or components</h4><p>Asterisk above in maintenance score assumes wood, composite decking is low maintenance, but expensive.</p>
+        <h4>Cost breakdown</h4><p>In progress</p>
+        <h4>Risks / unknonwns</h4>
         <h4>Dependencies</h4>
         <h4>Contingency</h4>
         <h4>Considerations</h4>
